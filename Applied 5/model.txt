@@ -1,0 +1,32 @@
+Browsers: Chrome, Firefox, Safari, Edge, Brave.
+
+Operating systems: Windows, macOS, Linux.
+
+Screen resolutions: 480p, 720p, 1080p, 4k, 5k.
+
+Browsers        Operating systems       Screen resolutions
+Chrome  Windows 720p
+Safari  Linux.  4k
+Chrome  macOS   1080p
+Firefox Windows 5k.
+Brave.  Linux.  5k.
+Brave.  macOS   4k
+Brave.  Windows 720p
+Safari  macOS   720p
+Edge    Linux.  720p
+Chrome  Linux.  5k.
+Edge    Windows 4k
+Firefox macOS   720p
+Chrome  Windows 480p
+Edge    macOS   5k.
+Edge    Linux.  480p
+Safari  macOS   480p
+Brave.  macOS   480p
+Safari  Windows 5k.
+Firefox Linux.  480p
+Safari  Linux.  1080p
+Chrome  macOS   4k
+Brave.  Windows 1080p
+Firefox macOS   4k
+Edge    macOS   1080p
+Firefox Windows 1080p

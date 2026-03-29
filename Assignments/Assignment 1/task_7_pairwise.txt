@@ -1,0 +1,24 @@
+Type of item: book, carpentry, gardening
+
+Age: minor, adult, elderly
+
+Length of loan: short, medium, long
+
+Outstanding fees: have fees, no fees
+
+Gardening tool training: trained, not trained
+
+Carpentry tool training: trained, not trained
+
+Type of item    Age     Length of loan  Outstanding fees        Gardening tool training Carpentry tool training
+carpentry       elderly long    no fees not trained     not trained
+gardening       minor   medium  have fees       trained trained
+carpentry       adult   short   no fees trained trained
+book    adult   medium  have fees       not trained     not trained
+book    minor   short   no fees trained not trained
+gardening       elderly short   have fees       not trained     trained
+gardening       adult   long    have fees       trained trained
+gardening       elderly medium  no fees trained not trained
+carpentry       minor   medium  have fees       not trained     not trained
+book    minor   long    no fees not trained     trained
+book    elderly short   have fees       trained trained
